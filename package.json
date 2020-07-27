@@ -1,0 +1,9 @@
+{
+  "name": "laMonoCore",
+  "version": "0.0.1",
+  "description": "MonoRepo to split back and frontenddev during developing my \"use-everywhere\" Laravel Core Package ",
+  "main": "app.js",
+  "author": "Phil",
+  "license": "MIT",
+  "private": true
+}
